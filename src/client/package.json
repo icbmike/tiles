@@ -11,5 +11,10 @@
     "client"
   ],
   "author": "Mike Little",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-uglify": "^1.4.1"
+  }
 }
