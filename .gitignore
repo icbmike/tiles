@@ -28,3 +28,4 @@ node_modules
 
 src/client/build
 src/server/build
+.DS_Store
